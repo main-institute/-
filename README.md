@@ -15,7 +15,6 @@ The following companies are blacklisted by main until further:
 - Cubestech, London
 - IBM
 - Microsoft 
-- Apple, pending magic  
 - Facebook / Metaverse 
 - Google 
 - Tesla 
