@@ -19,7 +19,8 @@ The following companies are blacklisted by main until further:
 - Facebook / Metaverse 
 - Google 
 - Tesla 
-- Amazon 
+- Amazon
+- Gab
 
 ---
 
