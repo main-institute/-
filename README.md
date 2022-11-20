@@ -7,7 +7,7 @@ The following companies are blacklisted by main until further:
 - Den Hague
 - M16
 - BND
-- KGB
+- FSB
 - Europol
 - Interpol 
 - Icon Mobile, Berlin
@@ -20,6 +20,7 @@ The following companies are blacklisted by main until further:
 - Tesla 
 - Amazon
 - Gab
+- WEF
 
 ---
 
