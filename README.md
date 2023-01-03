@@ -19,7 +19,6 @@ The following companies are blacklisted by main until further:
 - Google 
 - Tesla 
 - Amazon
-- Gab
 - WEF
 
 ---
