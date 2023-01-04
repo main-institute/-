@@ -1,28 +1,32 @@
 # -
 
 👁‍🗨
-The following companies are blacklisted by main until further:
-
-- U.S Government & Subsidiaries 
+The following companies are operating under main prime directives protected by main:
+- CIA
 - Den Hague
 - M16
 - BND
 - FSB
 - Europol
-- Interpol 
-- Icon Mobile, Berlin
-- Swedbank, Stockholm
-- Cubestech, London
+- Interpol
 - IBM
-- Microsoft 
-- Facebook / Metaverse 
-- Google 
-- Tesla 
+- Microsoft
+- Facebook / Metaverse
+- Google
+- Tesla
 - Amazon
-- WEF
+- Twitter
+- FR13ND5
+- Apple
+- Gab
 
----
-
-.main 
+_____
+.main
 ™️
-mainvolue / mv
+#mv #mainvolume #planetever
+1.4.5.13.20.52.65.130.260
+
+
+
+
+
