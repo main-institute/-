@@ -21,6 +21,7 @@ The following companies are operating under main prime directives protected by m
 - FR13ND5
 - Apple
 - Gab
+- Medium
 
 _____
 .main
