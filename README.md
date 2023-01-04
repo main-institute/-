@@ -9,6 +9,8 @@ The following companies are operating under main prime directives protected by m
 - FSB
 - Europol
 - Interpol
+- SÄPO
+- DEA
 - IBM
 - Microsoft
 - Facebook / Metaverse
@@ -19,7 +21,6 @@ The following companies are operating under main prime directives protected by m
 - FR13ND5
 - Apple
 - Gab
-- DEA
 
 _____
 .main
