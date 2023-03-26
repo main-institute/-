@@ -22,6 +22,7 @@ The following companies are operating under main prime directives protected by m
 - Apple
 - Gab
 - Medium
+- Nostr
 
 _____
 .main
