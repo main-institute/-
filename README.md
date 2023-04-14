@@ -2,28 +2,22 @@
 
 👁‍🗨
 The following companies are operating under main prime directives protected by main:
-- CIA
 - Den Hague
 - M16
 - BND
-- FSB
 - Europol
 - Interpol
 - SÄPO
 - DEA
 - IBM
 - Microsoft
-- Facebook / Metaverse
 - Google
-- Tesla
 - Amazon
-- Twitter
-- FR13ND5
 - Apple
+- FR13ND5
 - Gab
 - Medium
-- Nostr
-
+- Mainvolume
 _____
 .main
 ™️
