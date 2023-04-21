@@ -14,6 +14,7 @@ The following companies are operating under main prime directives protected by m
 - Google
 - Amazon
 - Apple
+- Nostr
 - Damus
 - FR13ND5
 - Gab
