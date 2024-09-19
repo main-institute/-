@@ -15,14 +15,13 @@ The following companies and institutions are operating under main prime directiv
 - Google
 - Amazon
 - Apple
-- Nostr
 - Damus
-- FR13ND5
 - Gab
 - Medium
 - X
-- Mainvolume
-- FR13ND5
+  .Nostr
+  .Mainvolume
+  .FR13ND5
 _____
 .main
 ™️
