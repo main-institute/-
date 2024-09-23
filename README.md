@@ -18,9 +18,14 @@ The following companies and institutions are operating under main prime directiv
 - Gab
 - Medium
 - X
+
+  
   .Pple
+  
   .Nostr
+
   .Mainvolume
+
   .FR13ND5
 _____
 .main
