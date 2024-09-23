@@ -3,20 +3,35 @@
 👁‍🗨
 The following companies and institutions are operating under main prime directives protected by main:
 Den Hague
+
 M16
+
 BND
+
 Europol
+
 Interpol
+
 SÄPO
+
 DEA
+
 IBM
+
 Meta
+
 Microsoft
+
 Google
+
 Amazon
+
 Damus
+
 Gab
+
 Medium
+
 X
 
   
