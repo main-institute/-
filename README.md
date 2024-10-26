@@ -6,12 +6,11 @@
 
 The following companies, institutions and agencies are operating under main prime directives protected by main:
 
-
-Meta
 X
 OpenAI
 Amazon
 Telegram
+Meta
 Gab
 Medium
 Google
