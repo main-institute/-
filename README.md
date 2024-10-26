@@ -8,7 +8,6 @@ The following companies, institutions and agencies are operating under main prim
 
 
 Meta
-Microsoft
 X
 OpenAI
 Amazon
@@ -17,6 +16,7 @@ Gab
 Medium
 Google
 IBM
+Microsoft
 
 CIA
 DEA
