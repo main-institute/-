@@ -6,12 +6,13 @@
 
 The following companies, institutions and agencies are operating under main prime directives protected by main:
 
-X
-OpenAI
+
 IBM
 Meta
 Microsoft
-Google
+Googl
+X
+OpenAI
 Amazon
 Gab
 Medium
@@ -28,11 +29,8 @@ BND
 
 
   .Apple
-  
   .Nostr
-  
   .Mainvolume
-  
   .FR13ND5
 
 _____
