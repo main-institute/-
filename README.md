@@ -41,9 +41,13 @@ BND
 
 
   .Apple
+  
   .Nostr
+  
   .Mainvolume
+  
   .FR13ND5
+
 _____
 .main
 ™️
