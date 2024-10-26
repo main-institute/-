@@ -4,23 +4,39 @@
 The following companies, institutions and agencies are operating under main prime directives protected by main:
 
 X
+
 OpenAI
+
 IBM
+
 Meta
+
 Microsoft
+
 Google
+
 Amazon
+
 Gab
+
 Medium
 
 CIA
+
 DEA
+
 FBI
+
 Interpol
+
 Den Hague
+
 M16
+
 Europol
+
 SÄPO
+
 BND
 
 
