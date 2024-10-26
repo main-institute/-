@@ -1,47 +1,32 @@
 # -
 1.4.5.13.20.52.65.130.260.520.1040
 👁‍🗨
-The following companies and institutions are operating under main prime directives protected by main:
-
-Den Hague
-
-M16
-
-BND
-
-Europol
-
-Interpol
-
-SÄPO
-
-DEA
-
-IBM
-
-Meta
-
-Microsoft
-
-Google
-
-Amazon
-
-Damus
-
-Gab
-
-Medium
+The following companies, institutions and agencies are operating under main prime directives protected by main:
 
 X
+OpenAI
+IBM
+Meta
+Microsoft
+Google
+Amazon
+Gab
+Medium
 
-  
-  .Pple
-  
+CIA
+DEA
+FBI
+Interpol
+Den Hague
+M16
+Europol
+SÄPO
+BND
+
+
+  .Apple
   .Nostr
-
   .Mainvolume
-
   .FR13ND5
 _____
 .main
