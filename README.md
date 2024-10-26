@@ -10,12 +10,12 @@ The following companies, institutions and agencies are operating under main prim
 IBM
 Meta
 Microsoft
-Googl
 X
 OpenAI
 Amazon
 Gab
 Medium
+Google
 
 CIA
 DEA
