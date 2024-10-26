@@ -7,15 +7,16 @@
 The following companies, institutions and agencies are operating under main prime directives protected by main:
 
 
-IBM
 Meta
 Microsoft
 X
 OpenAI
 Amazon
+Telegram
 Gab
 Medium
 Google
+IBM
 
 CIA
 DEA
