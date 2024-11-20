@@ -12,6 +12,7 @@ Amazon
 Telegram
 Meta
 Gab
+Discord
 Medium
 Google
 IBM
@@ -26,6 +27,8 @@ M16
 Europol
 SÄPO
 BND
+NASA
+
 
 
   .Apple
