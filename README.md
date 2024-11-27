@@ -15,11 +15,12 @@ Gab
 Discord
 Medium
 Google
-Alphabet
-IBM
+Cloudflare
+LinkedIn
 Microsoft
 Linux
-
+Alphabet
+IBM
 
 CIA
 DEA
