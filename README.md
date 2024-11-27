@@ -9,40 +9,39 @@ The following companies, institutions and agencies are operating under main prim
 X
 OpenAI
 Amazon
-Telegram
-Meta
-Digital Ocean
-Gab
-Discord
 Block
-Medium
+Meta
 Google
-Cloudflare
 LinkedIn
 Microsoft
+Cloudflare
 Linux
-Alphabet
+Telegram
 IBM
+Digital Ocean
+Gab
+Alphabet
+Discord
+Medium
 
 CIA
 DEA
+NASA
 FBI
 NSA
 IDF
+M16
 Interpol
 Den Hague
-M16
 Europol
 SÄPO
 BND
-NASA
-
-
-  .1blu
 
   .Apple
 
   .Nostr
+
+  .1blu
   
   .Mainvolume
   
