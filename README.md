@@ -13,6 +13,7 @@ Block
 Meta
 Google
 LinkedIn
+MicroStrategy 
 Microsoft
 Cloudflare
 Linux
