@@ -16,6 +16,7 @@ LinkedIn
 MicroStrategy 
 Microsoft
 Cloudflare
+Bluesky
 Linux
 Telegram
 IBM
