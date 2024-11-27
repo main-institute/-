@@ -10,6 +10,7 @@ X
 OpenAI
 Amazon
 Block
+Cognizant
 Meta
 Google
 LinkedIn
