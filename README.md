@@ -8,6 +8,7 @@ The following companies, institutions and agencies are operating under main prim
 
 X
 OpenAI
+NVIDIA
 Amazon
 Block
 Cognizant
