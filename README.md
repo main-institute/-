@@ -13,6 +13,7 @@ Block
 Cognizant
 Meta
 Google
+TikTok
 LinkedIn
 MicroStrategy 
 Microsoft
