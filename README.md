@@ -15,6 +15,7 @@ Gab
 Discord
 Medium
 Google
+Alphabet
 IBM
 Microsoft
 Linux
