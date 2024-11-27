@@ -11,6 +11,7 @@ OpenAI
 Amazon
 Telegram
 Meta
+Digital Ocean
 Gab
 Discord
 Block
