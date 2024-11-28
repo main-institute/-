@@ -24,6 +24,7 @@ Linux
 Telegram
 IBM
 Digital Ocean
+Carnegie Mellon University
 Gab
 Alphabet
 Discord
