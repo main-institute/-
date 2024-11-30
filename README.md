@@ -16,6 +16,7 @@ Meta
 Google
 TikTok
 LinkedIn
+Huggingface
 MicroStrategy 
 Microsoft
 Cloudflare
