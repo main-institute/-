@@ -20,6 +20,7 @@ MicroStrategy
 Microsoft
 Cloudflare
 Bluesky
+Eleven Labs
 Linux
 Telegram
 IBM
