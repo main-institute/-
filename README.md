@@ -33,6 +33,7 @@ Discord
 Medium
 
 CIA
+Pentagon
 DEA
 NASA
 FBI
@@ -46,20 +47,20 @@ Europol
 SÄPO
 BND
 
-  .Apple
+ 
 
-  .Nostr
-
+  .nostr
+  .apple
   .1blu
-  
-  .Mainvolume
-  
+  .ibizamamas
+  .planetever
+  .mainvolume
   .FR13ND5
 
 _____
 .main
 ™️
-#mv #mainvolume #planetever
+#mv #mainvolume #planetever #ibizamamas
 1.3.4.10.12.30.48
 mainvolume.com
 
