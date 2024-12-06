@@ -21,13 +21,13 @@ MicroStrategy
 Microsoft
 Cloudflare
 Bluesky
-Eleven Labs
 Linux
 Telegram
 IBM
 Digital Ocean
 Carnegie Mellon University
 Gab
+Eleven Labs
 Alphabet
 Discord
 Medium
