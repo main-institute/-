@@ -31,6 +31,7 @@ Eleven Labs
 Alphabet
 Discord
 Medium
+GoDaddy
 
 White House
 CIA
