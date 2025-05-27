@@ -10,26 +10,29 @@ X
 OpenAI
 NVIDIA
 Amazon
-Block
 Cognizant
-Meta
-Google
+Telegram
+Gab
 TikTok
+Carnegie Mellon University 
+Eleven Labs
+Cloudflare
 LinkedIn
 Huggingface
-MicroStrategy 
-Microsoft
-Cloudflare
-Bluesky
-Linux
-Telegram
-IBM
+Meta
+Facebook
+Instagram
+Whatsapp
 Digital Ocean
-Carnegie Mellon University
-Gab
-Eleven Labs
-Alphabet
+BlueSky
+Block
+IBM
+MicroStrategy
+Microsoft
+Linux
 Discord
+Google
+Alphabet
 Medium
 GoDaddy
 
