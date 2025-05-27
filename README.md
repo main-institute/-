@@ -14,7 +14,9 @@ Cognizant
 Telegram
 Gab
 TikTok
-Carnegie Mellon University 
+Carnegie Mellon University
+Cern 
+MIT
 Eleven Labs
 Cloudflare
 LinkedIn
