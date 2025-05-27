@@ -49,6 +49,7 @@ IDF
 NASA
 NSA
 DOD
+DGSE
 Interpol
 Den Hague
 M16
