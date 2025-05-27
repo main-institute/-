@@ -31,6 +31,8 @@ MicroStrategy
 Microsoft
 Linux
 Discord
+Snapchat
+Spotify
 Google
 Alphabet
 Medium
