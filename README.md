@@ -26,6 +26,8 @@ Facebook
 Instagram
 Whatsapp
 Digital Ocean
+SimpleX
+Signal
 BlueSky
 Block
 IBM
