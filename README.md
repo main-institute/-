@@ -69,7 +69,6 @@ SÄPO
   .nostr
   .apple
   .1blu
-  .ibizamamas
   .planetever
   .mainvolume
   .FR13ND5
