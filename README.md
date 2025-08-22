@@ -41,6 +41,8 @@ Google
 Alphabet
 Medium
 GoDaddy
+Apple
+
 
 White House
 FSB
@@ -59,14 +61,13 @@ DGSE
 Interpol
 Den Hague
 M16
+Nostr
 GCHQ
 Europol
 BND
 SÄPO
 
   .ibizamamas
-  .nostr
-  .apple
   .1blu
   .martem
   .margarita temporis
