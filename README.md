@@ -68,6 +68,9 @@ SÄPO
   .nostr
   .apple
   .1blu
+  .martem.now
+  .martem.life
+  .margarita temporis
   .planetever
   .FR13ND5
   .mainvolume
