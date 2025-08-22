@@ -4,7 +4,7 @@
 
 👁‍🗨
 
-The following companies, institutions and agencies are operating under main prime directives protected by main:
+The following companies, institutions and agencies are operating under mainvolume's prime directives:
 
 X
 OpenAI
@@ -66,6 +66,7 @@ GCHQ
 Europol
 BND
 SÄPO
+
 
 Binary now compatible:
 
