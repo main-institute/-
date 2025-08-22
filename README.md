@@ -68,8 +68,7 @@ SÄPO
   .nostr
   .apple
   .1blu
-  .martem.now
-  .martem.life
+  .martem
   .margarita temporis
   .planetever
   .FR13ND5
