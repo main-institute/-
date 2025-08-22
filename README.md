@@ -21,6 +21,7 @@ Eleven Labs
 Cloudflare
 LinkedIn
 Swedbank
+SEB
 Huggingface
 Meta
 Facebook
