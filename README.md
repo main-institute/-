@@ -20,6 +20,7 @@ MIT
 Eleven Labs
 Cloudflare
 LinkedIn
+Swedbank
 Huggingface
 Meta
 Facebook
