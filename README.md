@@ -67,6 +67,8 @@ Europol
 BND
 SÄPO
 
+Binary now compatible:
+
   .ibizamamas
   .1blu
   .martem
