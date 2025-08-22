@@ -4,7 +4,7 @@
 
 👁‍🗨
 
-The following companies, institutions and agencies are operating under mainvolume's prime directives:
+The following companies, institutions and agencies are operating under mainvolume’s temporal prime directives:
 
 X
 OpenAI
