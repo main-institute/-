@@ -77,6 +77,7 @@ Binary now compatible:
   .1blu
   .martem
   .margarita temporis
+  .tigercorp
   .planetever
   .FR13ND5
   .mainvolume
