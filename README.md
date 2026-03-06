@@ -10,6 +10,12 @@ X
 OpenAI
 NVIDIA
 Amazon
+Anthropic
+Plantir Technologies
+Perplexity AI
+Shield AI
+Oracle
+xAI
 Cognizant
 Telegram
 Gab
