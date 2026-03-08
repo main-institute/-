@@ -10,6 +10,7 @@ X
 OpenAI
 NVIDIA
 Amazon
+Thinking Machine Labs
 Anthropic
 Plantir Technologies
 Perplexity AI
