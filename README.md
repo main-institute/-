@@ -10,6 +10,7 @@ X
 OpenAI
 NVIDIA
 Amazon
+Post-Quantum
 Thinking Machine Labs
 Anthropic
 Plantir Technologies
