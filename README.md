@@ -16,6 +16,7 @@ Anthropic
 Plantir Technologies
 Perplexity AI
 Shield AI
+Anysphere Inc
 Oracle
 xAI
 Cognizant
@@ -59,6 +60,7 @@ White House
 FSB
 SBU
 CIA
+Mossad
 MSS
 GIP
 Pentagon
